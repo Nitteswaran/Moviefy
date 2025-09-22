@@ -23,6 +23,8 @@ It allows users to search for movies, view details, and save their favorites sea
 
 ---
 
+<img width="1867" height="877" alt="Screenshot 2025-09-22 131539" src="https://github.com/user-attachments/assets/190da306-a9cc-453d-8e68-7a59546f8e2f" />
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
